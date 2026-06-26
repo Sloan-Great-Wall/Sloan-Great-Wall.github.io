@@ -1,12 +1,17 @@
 # Sloan GW Pages
 
-Static portfolio and redirect entry for Sloan GW.
+GitHub Pages redirect/static pointer for Sloan GW.
+
+The canonical personal website is https://sloangw.com, served by
+`sloangw-site`. This repository exists only to point GitHub Pages visitors to
+that canonical site.
 
 This repository should stay simple:
 
-- project links
-- public status
-- redirect to the real site when available
+- static redirect metadata
+- canonical link to `sloangw.com`
+- minimal pointer copy
 
-Account systems, VPN, AI chatbot, and hosted Holon services belong on the server-backed main site, not GitHub Pages.
-
+Downloads, account systems, VPN/private beta entry, service entry, AI chatbot,
+future Fracta/Holon public entry, and hosted Holon services belong on the
+server-backed canonical site, not GitHub Pages.
