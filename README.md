@@ -15,3 +15,5 @@ This repository should stay simple:
 Downloads, account systems, VPN/private beta entry, service entry, AI chatbot,
 future Fracta/Holon public entry, and hosted Holon services belong on the
 server-backed canonical site, not GitHub Pages.
+
+<!-- Developer entry: AGENTS.md. -->
